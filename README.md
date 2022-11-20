@@ -103,7 +103,7 @@ TBD-step-2-information
   TBD-step-3-notes.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: TBD-step-3-name</h2></summary>
 
 _Nice work finishing TBD-step-2-name :sparkles:_
@@ -126,7 +126,7 @@ TBD-step-3-information
   TBD-step-4-notes.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: TBD-step-4-name</h2></summary>
 
 _Nicely done TBD-step-3-name! :partying_face:_
