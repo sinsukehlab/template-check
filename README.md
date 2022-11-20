@@ -80,7 +80,7 @@ TBD-step-1-information
   TBD-step-2-notes.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: TBD-step-2-name</h2></summary>
 
 _You did TBD-step-1-name! :tada:_
@@ -103,7 +103,7 @@ TBD-step-2-information
   TBD-step-3-notes.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: TBD-step-3-name</h2></summary>
 
 _Nice work finishing TBD-step-2-name :sparkles:_
