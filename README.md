@@ -126,7 +126,7 @@ TBD-step-3-information
   TBD-step-4-notes.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: TBD-step-4-name</h2></summary>
 
 _Nicely done TBD-step-3-name! :partying_face:_
@@ -149,7 +149,7 @@ TBD-step-4-information
   TBD-step-5-notes.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Almost there TBD-step-4-name! :heart:_
