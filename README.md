@@ -56,7 +56,7 @@ endstep0-->
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: TBD-step-1-name</h2></summary>
 
 _Welcome to "TBD-course-name"! :wave:_
@@ -80,7 +80,7 @@ TBD-step-1-information
   TBD-step-2-notes.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: TBD-step-2-name</h2></summary>
 
 _You did TBD-step-1-name! :tada:_
